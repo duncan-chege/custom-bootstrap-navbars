@@ -1,0 +1,20 @@
+.navbar{
+    background: #0C120C;
+}
+
+.navbar a:hover {
+    color: rgb(209, 34, 34); /*applies to all hovered links on nav*/
+}
+
+.nav a {
+    color: #fff; /*applies to all of the ul links*/
+}
+
+.nav a:hover{
+    color: yellow;
+}
+
+.hamburger {
+    font-size: 20px;
+    color: #fff;
+}
